@@ -2,10 +2,10 @@
 
 ## Analysis of Emerging Antimicrobial Resistance Genes Using Publicly Available *Pseudomonas aeruginosa* Genomes
 
-**Author:** Y. Lakshmi Sai Varshini
+**Author:** Y. Lakshmi Sai Varshini, Saloni Semwal
 **Institution:** SRM Institute of Science and Technology, Department of Genetic Engineering
 **Supervisor:** Dr. P. Rathinasabapathi
-**Program:** B.Tech Computational Biology — 3rd Year Minor Project
+**Program:** B.Tech. in Biotechnology (Computational Biology) — 3rd Year Minor Project
 
 ---
 
